@@ -16,7 +16,3 @@ class Scraper
   binging.pry
   end
 end
-
-
-
-
