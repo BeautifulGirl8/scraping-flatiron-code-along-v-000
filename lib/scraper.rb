@@ -35,4 +35,3 @@ def make_courses
   end
 
   Scraper.new.print_courses
-
